@@ -4,8 +4,8 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'Le migliori cose laser online',
+        'description' => 'Le migliori cose laser online',
         'image' => 'default-share.png',
     ],
     'owner' => [
