@@ -3,14 +3,14 @@
 @section('title', 'About')
 
 @section('content')
-    <h1>About</h1>
+<h1>La misura del laser</h1>
 
-    <p>My name is {{ $page->owner->name }}</p>
-
-    <h2>Links:</h2>
-
-    <ul>
-        <li><a href="/twitter" target="_blank">Twitter</a></li>
-        <li><a href="/github" target="_blank">GitHub</a></li>
-    </ul>
-@endsection
+<p>Nei campi di lavoro avanzati di misurazione incrociata dei tempi moderni, questo puntatore laser è ampiamente utilizzato grazie al suo perfetto utilizzo della tecnologia a diodi laser più avanzata. Questo strumento avanzato rende la migliore adozione del diodo laser, il cui raggio laser rosso proiettato è almeno 3 volte più luminoso del laser a 532 nm. Di conseguenza, indipendentemente dalla distanza di lavoro ravvicinata o lunga, questo puntatore laser è sempre sufficientemente efficiente da eseguire la generazione incrociata ad alte prestazioni in un lavoro di generazione incrociata continuo.</p>
+<p>Di conseguenza, gli utenti dovrebbero cercare di saperne di più sulle regole di selezione, installazione e funzionamento il più possibile prima di acquistare davvero il puntatore laser. Abbiamo pubblicato alcuni dei nostri migliori puntatori laser sul nostro sito Web confezionati in kit. Ottieni tutto ciò di cui hai bisogno, incluso il binario, un tettuccio di alimentazione flottante, teste dei binari, hardware di montaggio e il laser più adatto disponibile oggi sul mercato per ogni tipo di dispositivo per binario. Non ci sono trasformatori da acquistare.</p>
+<p>Non vediamo l'ora di aiutarti con i tuoi puntatori laser o il tuo prossimo progetto laser di qualsiasi tipo. Grandi o piccoli, c'è una soluzione laser per tutti! Soprattutto in ambienti di lavoro difficili, può sempre garantire la sua elevata stabilità e buone prestazioni durante l'intero processo di lavoro tra generazioni. Questo puntatore laser adotta sempre un tubo laser di dimensioni maggiori da 26 mm di diametro con la migliore combinazione dell'eccellente guscio metallico a emissione termica.</p>
+<p>In base agli ambienti di lavoro esatti, come la distanza di lavoro del foro di emissione del raggio laser sulla superficie di lavoro, il colore e il materiale della superficie di lavorazione e la pratica sala operatoria o la luminosità esterna, gli utenti possono scegliere il puntatore laser più appropriato con una potenza di uscita adeguata. Inoltre, in base alle diverse esigenze di dimensione della linea trasversale di puntamento, i professionisti della tecnologia laser eseguiranno il calcolo generale e quindi selezioneranno correttamente il puntatore laser.</p>
+<p><strong>Quando gli utenti effettuano la misurazione a una lunga distanza di lavoro, il puntatore laser ad alta potenza è sempre necessario. Allo stesso tempo, la stabilità e l'affidabilità del raggio laser sono diventate preoccupazioni particolarmente importanti nel lavoro continuo. Quando gli utenti effettuano la generazione incrociata con il puntatore laser ad alta potenza, la temperatura interna aumenta rapidamente con l'aumentare del tempo di posizionamento.</strong></p>
+<p>Nei pratici campi di lavoro di generazione incrociata, questo puntatore laser industriale avanzato viene sempre montato su macchinari, macchine o dispositivi richiesti entro un'installazione consentita da 0,5 metri a 5 metri. Qualunque sia il tipo di occasione di lavoro, la lunghezza di due linee perpendicolari può raggiungere una distanza di circa 7 metri. Una volta montato nella posizione corretta, questo puntatore laser può sempre aiutare i lavoratori a ottenere la migliore generazione incrociata su tutte le superfici di lavoro con successo.</p>
+<p>Non è lo stesso di altri laser visibili, questo laser verde a 532 nm emette il raggio laser verde più visibile sia nell'oscurità che durante il giorno. Di conseguenza, questo puntatore laser è ampiamente applicabile per l'esperimento avanzato a distanze molto lunghe o ambienti di lavoro ad alta luminosità. In base alle esatte condizioni del campo di lavoro, gli utenti eseguiranno un calcolo generale della lunghezza della linea richiesta, della larghezza della linea e della potenza di uscita richiesta.</p>
+<p><em>In base all'esatta potenza di uscita, i professionisti della tecnologia laser equipaggeranno la tensione operativa adeguata dell'alimentazione in ingresso CC. Non importa quanto tempo sia durato in un esperimento laser continuo, la luminosità del laser verde non decadrà mai. Qualunque sia il tipo di occasione di lavoro, questo puntatore laser può sempre essere montato sulla macchina o sull'attrezzatura richiesta con l'assistenza della staffa di montaggio.</em></p>
+<p> @endsection</p>
