@@ -1,21 +1,19 @@
 @extends('_layouts.master')
 
 @section('content')
-    <h1>Welcome to Artisan Static</h1>
+<h1>Come scegliere i tuoi prodotti laser?</h1>
+<p>Nel lavoro di generazione di linee avanzate, sempre più persone hanno iniziato a prestare maggiore attenzione <strong><a href="https://www.laserpotenti.com/">al puntatore laser</a></strong>. Non è lo stesso della linea, della fune, del metro quadrato o della tavola di blocco comunemente usati, il laser verde non ha limiti di mira in altezza, distanza o altro possibile ambiente di lavoro, ma offre solo ai lavoratori il miglior risultato di misurazione della linea su tutte le superfici di lavoro in modo efficiente.</p>
+<p>Il puntatore laser verde adotta la più avanzata tecnologia a diodi laser verdi da 532 nm come metodo unico. Nelle varie macchine industriali o apparecchiature di produzione, può svolgere un ruolo molto importante come linea accessoria per lavori di puntamento e posizionamento. I puntatori laser diventano sempre più potenti e sono confezionati in modi che ne consentono l'uso in molte aree della casa o dell'azienda.</p>
+<p><strong>Qualunque sia il tipo di occasione di lavoro, gli utenti possono sempre ottenere il miglior risultato di misurazione della linea dopo che è stato regolato correttamente nell'uso pratico. Quando usi un potente puntatore laser verde, puoi fare molte cose. Questo dispositivo all'avanguardia consente di utilizzare un normale dimmer domestico (120VAC). La possibilità di creare i tuoi prodotti laser fai-da-te è altamente desiderabile.</strong></p>
+<p>Ci sono momenti in cui ti sarà molto meglio usare l'adattatore in modo da poter utilizzare comodamente un potente laser. E, naturalmente, se hai bisogno di aiuto, siamo sempre qui per offrirti assistenza. Cos'è che stai illuminando? Le temperature più calde tendono a rendere oggetti come la carne rossa molto più naturali sotto il raggio laser. I tuoi prodotti vengono visualizzati nella migliore luce possibile, istantaneamente. Quando sembra migliore, vende di più.</p>
+<p>I <strong><a href="https://www.laserpotenti.com/puntatore-laser-verde/c-41.html">puntatori laser verdi</a></strong> sono sempre più durevoli che mai. Si attenuano dolcemente, hanno un'ottima resa cromatica e scelta della temperatura. La cosa migliore è che i prezzi stanno scendendo con l'aumentare della qualità. Ora, i puntatori laser vengono prodotti praticamente in ogni forma e dimensione di base. Quando farai il passaggio dal puntatore laser alla tecnologia laser, sarai così felice di averlo fatto. Nessun problema o costo di smaltimento di materiali pericolosi, lunga durata e risparmio energetico sono solo alcuni dei vantaggi.</p>
+<p>In base alla diversa distanza di lavoro, lunghezza della linea e larghezza della linea, l'ingegnere della tecnologia laser vorrebbe raccomandare il puntatore laser più adatto per i lavoratori. Solo se gli utenti hanno scelto correttamente il grado della lente laser, questo puntatore laser avanzato può finalmente ottenere il miglior risultato di generazione della linea su tutte le superfici di lavoro con successo.</p>
+<p>Prima della creazione di un potente puntatore laser, utenti e professionisti devono utilizzare la normale luce a LED per l'illuminazione della visione notturna. Di conseguenza, il potente puntatore laser è sempre ampiamente utilizzato come accessorio nella pubblica sicurezza, giudiziaria, banche, carceri, sviluppo di giacimenti petroliferi, costruzione di progetti, silvicoltura, marina, dogana, porti, ferrovie, aeroporti, controllo delle frontiere, militari, strade, fabbriche, abitazioni, piazze, magazzini e altri siti di sorveglianza per la visione notturna, ecc.</p>
+<p>Tuttavia, qualunque sia il tipo di occasione di lavoro, gli utenti dovrebbero essere sempre abbastanza cauti con i rischi del laser di esposizione a un potente raggio laser. Non visibile come i laser verdi o rossi, ha appena emesso il raggio verde che non può essere notato e percepito dagli occhi umani. Ogni volta che gli utenti scelgono questo potente puntatore laser, non dovrebbe mai essere utilizzato in pubblico a meno che non siano possibili campi di lavoro.</p>
+<p>Nei campi di lavoro avanzati della tecnologia dei diodi laser, il puntatore laser verde è ampiamente utilizzato in un'ampia varietà di campi di lavoro industriali. Indipendentemente dal tipo di occasione di lavoro, questo puntatore laser verde a 532 nm è in grado di portare ai lavoratori l'esperimento più preciso e accurato su tutti i campi di lavoro in modo stabile e affidabile. La maggior parte di noi oggi deve essere attenta al budget.</p>
+<p><em>Non è lo stesso di quegli strumenti manuali per esperimenti, il funzionamento di questo modulo laser di solito non ha limiti di distanza di mira, altezza o ambienti di lavoro. Durante la produzione di questo tipo di strumento sperimentale avanzato, gli utenti vorrebbero effettuare il posizionamento e la misurazione precisi della linea per la lavorazione delle materie prime.</em></p>
+<p>Estrarre i vecchi moduli laser e inserire i nuovi; un compito che la maggior parte di noi può svolgere in pochi minuti e senza alcuna conoscenza speciale. Dobbiamo soppesare il risparmio energetico non solo rispetto al costo dei moduli laser che acquistiamo e all'aspettativa di vita, ma anche se sono coinvolti costi di installazione. Ad esempio, questo strumento per esperimenti laser è ampiamente utilizzato per la generazione di linee precise nell'industria di lavorazione dei macchinari.</p>
+<p><a href="https://www.laserpotenti.com/puntatore-laser-verde/c-41.html"><img src="https://www.laserpotenti.com/images/p/l/220103/GL22700.jpg" alt="puntatori laser verdi"></a></p>
+<p>L'adozione di questo modulo laser avanzato ha appena reso la sperimentazione più precisa e accurata in ogni tipo di occasione lavorativa. Con l'altezza di lavoro consentita da 0,5 metri a 3 metri di altezza di installazione, la direzione della linea di proiezione può sempre essere regolata nel punto più adatto fino ad aiutare i lavoratori a ottenere con successo l'esperimento laser più soddisfatto in tutti i possibili campi di lavoro.</p>
 
-    <p>Artisan Static is a starter template for building a static Jigsaw blog hosted on Netlify.</p>
-
-    <p>This comes with code highlighting, share buttons, comments, analytics, an RSS feed, a contact form, a CMS and more.</p>
-
-    <p>The HTML, CSS and JavaScript in this template are extremely minimal, which makes the code easy to build on top of or replace completely.</p>
-
-    <a href="https://ko-fi.com/Y8Y07ACJ" target="_blank" rel="noopener">
-        <img src="{{ media('kofi-button.png') }}" alt="ko-fi" width="223" height="30">
-    </a>
-
-    <h2 id="test">Asset Compilation Test</h2>
-
-    <p>CSS test: <span class="test-css">text with blue border</span></p>
-
-    <p>JavaScript test: <a href="#test" class="test-js">click me</a></p>
-@endsection
+<p> @endsection</p>
